@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">console.log("Hello World!")</h1>
+<h1 align="left">console.log("Hello World!")</h1>
 
 ###
 
