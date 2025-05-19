@@ -4,7 +4,13 @@
 
 ###
 
-<p align="left">I'm a passionate Backend Developer with expertise in designing, building, and maintaining the backbone of scalable and efficient software systems. With a strong foundation in server-side programming, database management, and API development, I specialize in creating robust and secure solutions that power seamless user experiences.<br><br>My toolkit includes proficiency in programming languages like Java, JavaScript, Python and expertise in frameworks and libraries such as React and Spring Boot. I have experience working with databases like PostgreSQL, MongoDB, and MySQL, as well as containerization and orchestration tools such as Docker and Kubernetes.<br><br>I thrive on solving complex technical challenges, optimizing system performance, and collaborating with cross-functional teams to deliver high-quality applications. When I'm not coding, I enjoy staying updated with the latest trends in technology, contributing to open-source projects, and enhancing my skills through continuous learning.<br><br>Let's connect to build something extraordinary! 🚀<br><br>🌱 What I’m Learning:<br><br>- Backend development with Node.js and Spring Boot<br>- Deepening my knowledge of REST APIs<br>- Database design and implementation (SQL and NoSQL)<br>- Authentication & authorization using JWT, OAuth and session-based authentication<br>- Cloud platforms, containerization and CI/CD<br> <br><br>🤝 Let’s Connect<br><br>    Portfolio: https://andymartinez1.com<br>    LinkedIn: https://www.linkedin.com/in/andymartinez2/<br>    Email: martinez.s.andrew@gmail.com<br><br></p>
+<p align="left">I'm a backend developer focusing on designing and implementing scalable and efficient web applications. I have a strong foundation with microservices, database management, and API development, I primarily focus on security and data protection. 
+<br><br>
+My toolkit includes proficiency in programming languages like Java, C# and JavaScript. I utilize frameworks and libraries such as Spring Boot, ASP.NET Core and React. I have experience working with databases like PostgreSQL, MongoDB, and MySQL, as well as containerization and orchestration tools such as Docker and Kubernetes.
+<br><br>
+I thrive on solving complex technical challenges, optimizing system performance, and collaborating with cross-functional teams to deliver high-quality applications. When I'm not coding my own projects, I enjoy staying updated with the latest trends in technology, contributing to open-source projects, and enhancing my skills through continuous learning.
+<br><br>
+🌱 What I’m Learning:<br><br>- Backend development with ASP.NET Core in C# and Spring Boot in Java<br>- Deepening my knowledge of REST APIs<br>- Database design and implementation (SQL and NoSQL)<br>- Authentication & authorization using JWT, OAuth and session-based authentication<br>- Cloud platforms, containerization and CI/CD<br> <br><br>🤝 Let’s Connect<br><br>    Portfolio: https://andymartinez1.com<br>    LinkedIn: https://www.linkedin.com/in/andymartinez2/<br>    Email: martinez.s.andrew@gmail.com<br><br></p>
 
 ###
 
@@ -14,6 +20,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
