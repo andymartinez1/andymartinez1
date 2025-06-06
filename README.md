@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm a backend developer focusing on designing and implementing scalable and efficient web applications. I have a strong foundation with microservices, database management, and API development, I primarily focus on security and data protection. 
+<p align="left">I'm a full stack developer focusing on designing and implementing scalable and efficient web applications. I have a strong foundation with microservices, database management, and API development, I primarily focus on security and data protection. 
 <br><br>
 My toolkit includes proficiency in programming languages like Java, C# and JavaScript. I utilize frameworks and libraries such as Spring Boot, ASP.NET Core and React. I have experience working with databases like PostgreSQL, MongoDB, and MySQL, as well as containerization and orchestration tools such as Docker and Kubernetes.
 <br><br>
@@ -45,9 +45,6 @@ I thrive on solving complex technical challenges, optimizing system performance,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
