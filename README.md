@@ -4,13 +4,14 @@
 
 ###
 
-<p align="left">I'm a full stack developer focusing on designing and implementing scalable and efficient web applications. I have a strong foundation with microservices, database management, and API development, I primarily focus on security and data protection. 
+<p align="left">I'm a full stack developer focusing on designing and implementing scalable and efficient web applications. I have a strong foundation in microservices, database management, and API development, I primarily focus on security and data protection. 
 <br><br>
-My toolkit includes proficiency in programming languages like Java, C# and JavaScript. I utilize frameworks and libraries such as Spring Boot, ASP.NET Core and React. I have experience working with databases like PostgreSQL, MongoDB, and MySQL, as well as containerization and orchestration tools such as Docker and Kubernetes.
+My specialties include programming languages like Java, C# and JavaScript. I utilize frameworks and libraries such as Spring Boot, ASP.NET Core and React. I have experience working with databases like PostgreSQL, MongoDB, and MySQL, as well as containerization and orchestration tools such as Docker and Kubernetes.
 <br><br>
 I thrive on solving complex technical challenges, optimizing system performance, and collaborating with cross-functional teams to deliver high-quality applications. When I'm not coding my own projects, I enjoy staying updated with the latest trends in technology, contributing to open-source projects, and enhancing my skills through continuous learning.
 <br><br>
-🌱 What I’m Learning:<br><br>- Backend development with ASP.NET Core in C# and Spring Boot in Java<br>- Deepening my knowledge of REST APIs<br>- Database design and implementation (SQL and NoSQL)<br>- Authentication & authorization using JWT, OAuth and session-based authentication<br>- Cloud platforms, containerization and CI/CD<br> <br><br>🤝 Let’s Connect<br><br>    Portfolio: https://andymartinez1.com<br>    LinkedIn: https://www.linkedin.com/in/andymartinez2/<br>    Email: martinez.s.andrew@gmail.com<br><br></p>
+What I’m Learning:<br>- Backend development with ASP.NET Core in C# and Spring Boot in Java<br>- Deepening my knowledge of REST APIs<br>- Database design and implementation (SQL and NoSQL)<br>- Authentication & authorization using JWT, OAuth and session-based authentication<br>- Cloud platforms, containerization and CI/CD<br><br>
+My Links:<br>    Portfolio: https://andymartinez1.com<br>    LinkedIn: https://www.linkedin.com/in/andymartinez2/<br>    Email: martinez.s.andrew@gmail.com<br></p>
 
 ###
 
