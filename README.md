@@ -4,14 +4,28 @@
 
 ###
 
-<p align="left">I'm a full stack developer focusing on designing and implementing scalable and efficient web applications. I have a strong foundation in microservices, database management, and API development, I primarily focus on security and data protection. 
-<br><br>
-My specialties include object-oriented programming languages like Java, C# and JavaScript. I utilize frameworks and libraries such as Spring Boot, ASP.NET Core and React. I have experience working with databases like PostgreSQL, MongoDB, and MySQL, as well as containerization and orchestration tools such as Docker and Kubernetes.
-<br><br>
-I thrive on solving complex technical challenges, optimizing system performance, and collaborating with cross-functional teams to deliver high-quality applications. When I'm not coding my own projects, I enjoy staying updated with the latest trends in technology, contributing to open-source projects, and enhancing my skills through continuous learning.
-<br><br>
-What I’m Currently Working With:<br>- Backend development with ASP.NET Core in C# and Spring Boot in Java<br>- REST APIs<br>- Database design and implementation (SQL and NoSQL)<br>- Authentication & authorization using JWT, OAuth and session-based authentication<br>- Cloud platforms, containerization and CI/CD<br><br>
-My Links:<br>    Portfolio: https://andymartinez1.com<br>    LinkedIn: https://www.linkedin.com/in/andymartinez2/<br>    Email: martinez.s.andrew@gmail.com<br></p>
+I'm a full-stack developer with a strong focus on building reliable, scalable web applications using **C#** and the **.NET ecosystem**. Most of my work centers around **ASP.NET Core**, **Blazor**, and **REST API development**, with an emphasis on clean architecture, performance, and security.
+
+I work comfortably across the stack—designing APIs, managing databases, and building interactive frontends with **Blazor** and **React**. I have hands-on experience with both SQL and NoSQL databases (**PostgreSQL**, **MySQL**, **MongoDB**), and I regularly use **Docker** and **Kubernetes** for containerization and deployment.
+
+My background includes microservices, distributed systems, authentication/authorization, and backend architecture. I enjoy solving technical problems, improving system performance, and collaborating with teams to deliver features that are easy to use and maintain.
+
+Outside of project work, I'm always learning—exploring new .NET features, contributing to open-source projects, and refining my skills.
+
+---
+
+## What I’m Currently Working With:
+
+- **Backend development:** C#, ASP.NET Core, Entity Framework, Blazor  
+- **RESTful APIs**  
+- **Database design & implementation:** SQL and NoSQL  
+- **Authentication & authorization:** JWT, OAuth, ASP.NET Identity  
+- **Cloud, containerization & CI/CD:** Docker, Kubernetes
+- 
+## My Links:
+- Portfolio: https://andymartinez1.com
+- LinkedIn: https://www.linkedin.com/in/andymartinez2/
+- Email: martinez.s.andrew@gmail.com<br></p>
 
 ###
 
