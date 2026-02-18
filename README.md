@@ -16,12 +16,12 @@ Outside of project work, I'm always learning—exploring new .NET features, cont
 
 ## What I’m Currently Working With:
 
-- **Backend development:** C#, ASP.NET Core, Entity Framework, Blazor  
+- **Backend development:** C#, ASP.NET, Entity Framework
 - **RESTful APIs**  
 - **Database design & implementation:** SQL and NoSQL  
 - **Authentication & authorization:** JWT, OAuth, ASP.NET Identity  
 - **Cloud, containerization & CI/CD:** Docker, Kubernetes
-- 
+  
 ## My Links:
 - Portfolio: https://andymartinez1.com
 - LinkedIn: https://www.linkedin.com/in/andymartinez2/
